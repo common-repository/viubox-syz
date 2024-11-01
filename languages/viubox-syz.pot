@@ -1,0 +1,200 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"ViuBox SYZ\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"POT-Creation-Date: "
+"2022-09-29 12:45+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Viubox\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit "
+"3.1.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: ViuBox.php:221
+#: ViuBox.php:222
+#: ViuBox.php:348
+msgid "ViuBox SYZ"
+msgstr ""
+
+#: ViuBox.php:236
+msgid ""
+"Are you sure you want to "
+"reset the plugin "
+"settings? Your current "
+"settings will be "
+"permanently lost."
+msgstr ""
+
+#: ViuBox.php:247
+msgid ""
+"You do not have "
+"permission to access "
+"this page."
+msgstr ""
+
+#: ViuBox.php:258
+#: ViuBox.php:272
+msgid ""
+"Error: Invalid security "
+"nonce. Please reload the "
+"page."
+msgstr ""
+
+#: ViuBox.php:262
+msgid ""
+"The settings were reset "
+"to default values."
+msgstr ""
+
+#: ViuBox.php:278
+msgid ""
+"Error: Missing POST "
+"field data."
+msgstr ""
+
+#: ViuBox.php:302
+msgid ""
+"Error: Invalid form data "
+"sent."
+msgstr ""
+
+#: ViuBox.php:327
+msgid ""
+"The settings were saved."
+msgstr ""
+
+#: ViuBox.php:355
+msgid ""
+"Button Insert Location"
+msgstr ""
+
+#: ViuBox.php:380
+msgid "Button Text"
+msgstr ""
+
+#: ViuBox.php:385
+msgid ""
+"Button Text Size (px)"
+msgstr ""
+
+#: ViuBox.php:390
+msgid "Button Width (px)"
+msgstr ""
+
+#: ViuBox.php:395
+msgid "Button Text Color"
+msgstr ""
+
+#: ViuBox.php:400
+msgid ""
+"Button Hover Text Color"
+msgstr ""
+
+#: ViuBox.php:405
+msgid ""
+"Button Background Color"
+msgstr ""
+
+#: ViuBox.php:410
+msgid ""
+"Button Hover Background "
+"Color"
+msgstr ""
+
+#: ViuBox.php:415
+msgid ""
+"Button Outer Spacing (px)"
+msgstr ""
+
+#: ViuBox.php:418
+#: ViuBox.php:428
+msgid "Top:"
+msgstr ""
+
+#: ViuBox.php:419
+msgid "Right:"
+msgstr ""
+
+#: ViuBox.php:420
+#: ViuBox.php:429
+msgid "Bottom:"
+msgstr ""
+
+#: ViuBox.php:421
+msgid "Left:"
+msgstr ""
+
+#: ViuBox.php:425
+msgid ""
+"Button Inner Spacing (px)"
+msgstr ""
+
+#: ViuBox.php:433
+msgid ""
+"Button Border Size (px)"
+msgstr ""
+
+#: ViuBox.php:438
+msgid "Button Border Color"
+msgstr ""
+
+#: ViuBox.php:443
+msgid ""
+"Button Hover Border Color"
+msgstr ""
+
+#: ViuBox.php:448
+msgid ""
+"Button Rounding (px)"
+msgstr ""
+
+#: ViuBox.php:453
+msgid ""
+"Hanger Icon Height (px)"
+msgstr ""
+
+#: ViuBox.php:462
+msgid "Save Settings"
+msgstr ""
+
+#: ViuBox.php:464
+msgid "Reset Settings"
+msgstr ""

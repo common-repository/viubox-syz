@@ -1,0 +1,16 @@
+
+#viubox-syz-settings-form label {
+    font-weight:600;
+}
+
+#viubox-syz-settings-form p {
+    margin-top: 0;
+}
+
+.viubox-syz-small-field {
+    width: 40px;
+}
+
+.viubox-syz-label-contain {
+    margin-bottom: 5px;
+}

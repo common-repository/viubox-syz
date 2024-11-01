@@ -1,0 +1,81 @@
+
+@font-face {
+    font-family: 'SF Pro Display 400';
+    font-style: normal;
+    font-weight: 400;
+    src: local('SF Pro Display 400'), url('../fonts/SFPRODISPLAYREGULAR.woff') format('woff');
+}
+
+a.viubox-syz-measurments-button {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "SF Pro Display 400", sans-serif;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    max-width:100%;
+    line-height: 1;
+}
+
+@media only screen and (max-width: 989px) {
+    .viubox-syz-measurments-button {
+        width: 100% !important;
+    }
+}
+
+.viubox-syz-measurments-button:hover {
+    transition: 0.2s ease-in-out;
+}
+
+.viubox-syz-inner-button {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    white-space: nowrap;
+}
+
+#viubox-syz-hanger {
+    width: auto;
+    margin-right: 8px;
+}
+
+.viubox-syz-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1040;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.6);
+    transition: opacity 200ms;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.viubox-loader {
+    width: 36px;
+    height: 36px;
+    border: 5px solid #171716;
+    border-bottom-color: transparent;
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+}
+
+@keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.display-n {
+    display: none
+}
